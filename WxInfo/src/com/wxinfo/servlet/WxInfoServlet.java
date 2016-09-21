@@ -13,7 +13,7 @@ import com.wxinfo.util.CheckUtil;
 
 public class WxInfoServlet extends HttpServlet {
 
-	
+	//สิสิ commit
 	/**
 	 * The doGet method of the servlet. <br>
 	 *
