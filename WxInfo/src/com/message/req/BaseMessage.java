@@ -1,7 +1,7 @@
 package com.message.req;
 /** 
  * 消息基类（普通用户 -> 公众帐号） 
- *  
+ *    
  * @author liufeng 
  * @date 2013-05-19  
  */ 
